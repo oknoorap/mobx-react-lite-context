@@ -1,0 +1,33 @@
+{
+  "name": "mobx-react-lite-context",
+  "version": "0.0.1",
+  "description": "MobX React Lite Context",
+  "main": "dist/index.js",
+  "repository": "https://github.com/oknoorap/mobx-react-lite-context.git",
+  "author": "Ribhararnus Pracutian <oknoorap@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "mobx": "^5.10.1",
+    "mobx-react-lite": "^1.4.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "mobx": "^5.10.1",
+    "mobx-react-lite": "^1.4.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.20",
+    "@types/store": "^2.0.2",
+    "store": "^2.0.12"
+  },
+  "files": [
+    "dist/**"
+  ]
+}
