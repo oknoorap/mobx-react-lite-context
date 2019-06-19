@@ -1,6 +1,6 @@
 {
   "name": "mobx-react-lite-context",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "MobX React Lite Context",
   "main": "dist/index.js",
   "repository": "https://github.com/oknoorap/mobx-react-lite-context.git",
