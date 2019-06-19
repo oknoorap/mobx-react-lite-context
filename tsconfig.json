@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "target": "es5",
+    "outDir": "dist",
+    "declaration": true,
+    "lib": [
+      "esnext"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}
