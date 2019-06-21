@@ -12,10 +12,10 @@
 
 ```sh
 # yarn
-yarn add mobx-react-lite-context
+yarn add mobx mobx-react-lite mobx-react-lite-context
 
 # npm
-npm install mobx-react-lite-context --save
+npm install mobx mobx-react-lite mobx-react-lite-context --save
 ```
 
 ## Example
